@@ -32,7 +32,7 @@ Escoger 5 ejercicios por grupo e implementarlos en Kotlin, tomando como referenc
 <li>Lanzar un segundo "Activity"</li>
 </ol>
 
-## Scrennshots :
+## Screenshots :
 
 ![Screenshot_20240210-002931](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/ac5f1d68-2639-458b-a8fa-c093eec2a382) ![Screenshot_20240210-004033](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/b5736c10-816a-4ca9-a422-098d42de5b0f)
 
