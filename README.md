@@ -33,7 +33,7 @@ Escoger 5 ejercicios por grupo e implementarlos en Kotlin, tomando como referenc
 
 ## Scrennshots :
 
-![Screenshot_20240210-002931](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/ac5f1d68-2639-458b-a8fa-c093eec2a382) ![Screenshot_20240210-002931](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/3c0da624-6366-4565-ac25-41087063b54b)
+![Screenshot_20240210-002931](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/ac5f1d68-2639-458b-a8fa-c093eec2a382) ![Screenshot_20240210-004033](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/b5736c10-816a-4ca9-a422-098d42de5b0f)
 
 
 ![Screenshot_20240210-005513](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/0e8868a8-65eb-45f5-99b4-e9808aaebac9) ![Screenshot_20240210-010509](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/af4c9f37-6568-4192-a3af-39d2bf5ace64)
