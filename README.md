@@ -1,4 +1,4 @@
-# Ejercicios Kotlin
+# Aplicaciónes con Kotlin
 
 ## Antes de empezar
 
@@ -10,7 +10,7 @@
 <li>Los Link de APKs se encuentran aqui 👉: https://drive.google.com/drive/folders/1cIdjx8iGxfcBPAvxQaHg9aaRPCoPIvkO?usp=drive_link.</li>
 </ol>
 
-# Aplicaciónes con Kotlin
+## Instrucciones
 
 Escoger 5 ejercicios por grupo e implementarlos en Kotlin, tomando como referencia los ejemplos en Java del libro Manual Basico Android Studio<br>
 
