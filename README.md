@@ -8,6 +8,9 @@
 
 ![Screenshot 2024-02-10 012752](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/b8f41823-9e59-4168-a31d-2dd5cae97518)
 
+<ol>
+<li>Los Link de APKs se encuentran aqui 👉: https://drive.google.com/drive/folders/1cIdjx8iGxfcBPAvxQaHg9aaRPCoPIvkO?usp=drive_link.</li>
+</ol>
 
 # Aplicaciónes con Kotlin
 
@@ -40,10 +43,3 @@ Escoger 5 ejercicios por grupo e implementarlos en Kotlin, tomando como referenc
 
 
 ![Screenshot_20240210-011740](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/ac45af69-c8cc-4e97-a85e-2bcb0fa16fa2) ![Screenshot_20240210-011743](https://github.com/Jeant10/ejercicios_kotlin/assets/74752987/e8fcb2de-3b8b-47b8-86a6-44dc81ef5ab5)
-
-
-## Links de apks
-
-<ol>
-<li>Link de APKs: https://drive.google.com/drive/folders/1cIdjx8iGxfcBPAvxQaHg9aaRPCoPIvkO?usp=drive_link.</li>
-</ol>
